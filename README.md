@@ -3,8 +3,10 @@
 
 <!-- Animación de presentación (corregido "Java") -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=0A9EF1&size=24&center=true&vCenter=true&width=600&lines=Java%20Developer+%7C+Spring+Boot+%7C+MySQL+%7C+Docker+%7C+React+%7C+Postman;Passionate+Backend+Developer+from+Colombia;Open+to+Remote+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=0A9EF1&size=22&center=true&vCenter=true&width=1000&lines=Backend+Developer+with+Java+and+Spring+Boot;Passionate+about+technology+and+clean+architecture;Open+to+remote+opportunities" />
 </p>
+
+
 
 ---
 
