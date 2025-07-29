@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🇺🇸 Prefer to read this in English? 👉 <a href="./README.md"><strong>Click here</strong></a>
+  Prefer to read this in English? 👉 <a href="./README.md"><strong>Click here</strong></a>
 </p>
 
 ---
