@@ -1,12 +1,15 @@
 <h1 align="center">👋 Hi, I'm Johan Esteban Ríos Ramírez</h1>
 <h3 align="center">Always learning, always improving – With everything and more</h3>
 
-<!-- Animación de presentación (corregido "Java") -->
+<!-- Animación de presentación -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=0A9EF1&size=22&center=true&vCenter=true&width=1000&lines=Backend+Developer+with+Java+and+Spring+Boot;Passionate+about+technology+and+clean+architecture;Open+to+remote+opportunities" />
 </p>
 
-
+<!-- Enlace a versión en español -->
+<p align="center">
+  🇪🇸 Prefer to read this in Spanish? 👉 <a href="./README.es.md"><strong>Click here</strong></a>
+</p>
 
 ---
 
