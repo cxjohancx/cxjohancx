@@ -8,7 +8,7 @@
 
 <!-- Enlace a versión en español -->
 <p align="center">
-  🇪🇸 Prefer to read this in Spanish? 👉 <a href="./README.es.md"><strong>Click here</strong></a>
+  Prefieres leer esto en español? 👉 <a href="./README.es.md"><strong>Click here</strong></a>
 </p>
 
 ---
