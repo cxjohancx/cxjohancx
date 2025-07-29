@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=0A9EF1&size=22&center=true&vCenter=true&width=1000&lines=Desarrollador+Backend+con+Java+y+Spring+Boot;Apasionado+por+la+tecnología+y+los+retos;Disponible+para+trabajo+remoto" />
 </p>
 
+<p align="center">
+  🇺🇸 Prefer to read this in English? 👉 <a href="./README.md"><strong>Click here</strong></a>
+</p>
 
 ---
 
